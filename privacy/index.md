@@ -7,7 +7,7 @@
 This Privacy Policy explains how our apps (“Apps”) handle information. We design our Apps to be privacy-forward: data is stored on your device, and optional iCloud sync uses Apple’s CloudKit.
 
 > **Summary**
-> - Your content (like chats, notes, and outputs) is stored **on-device**.
+> - Your content (like chats, notes, and outputs) is stored **on-device**. The App uses Apple Foundation Models.
 > - If you enable iCloud, your content can sync using **Apple CloudKit**.
 > - We do **not** run our own servers for your content, and we do **not** sell your data.
 > - Purchases are processed by Apple via **StoreKit**.
